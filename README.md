@@ -3,6 +3,7 @@ This powershell script opens a realistic looking window thats asking for your wi
 
 ## Screenshots
 ![Window English](https://github.com/lu-ka/PowerPhish/blob/main/Screenshots/window_english.PNG)
+
 Note: The german placeholder text "Benutzername" and "Passwort" will be in the language of the windows installation that you run this script on.
 
 ![Window German](https://github.com/lu-ka/PowerPhish/blob/main/Screenshots/window_german.PNG)

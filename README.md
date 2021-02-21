@@ -2,10 +2,10 @@
 This powershell script opens a realistic looking window thats asking for your windows username and password. If the input is correct the loot is uploaded to a pastebin account. If the entered username or password is wrong the script will start again. This script was created with a BAD-USB / HID / Ducky attack in mind. 
 
 ## Screenshots
-![Window English](https://raw.githubusercontent.com/lu-ka/PowerPhish/main/Screenshots/window_english.png)
+![Window English](https://github.com/lu-ka/PowerPhish/blob/main/Screenshots/window_english.PNG)
 Note: The german placeholder text "Benutzername" and "Passwort" will be in the language of the windows installation that you run this script on.
 
-![Window German](https://raw.githubusercontent.com/lu-ka/PowerPhish/main/Screenshots/window_german.png)
+![Window German](https://github.com/lu-ka/PowerPhish/blob/main/Screenshots/window_german.PNG)
 
 ## Kudos
 This script is based on https://github.com/Dviros/CredsLeaker
